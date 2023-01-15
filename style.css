@@ -1,5 +1,5 @@
 
-.new{
+/* .new{
     /* width: 350px;
     height: 200px; */
     display:grid;
@@ -10,20 +10,18 @@
     width:150px;
     height: 80px;
     /* z-index: -2px ; */
- .pic-1{
+ /* .pic-1{
     width: 150px;
     height: 100px;
  }
  .pic-3{
     width: 50%;
     height: 30%;
- }
+ } */ 
 
 a{
     text-decoration: none;
     color:black;
-    gap: 5px;
-    top: 0px;
 }
 .top{
     width: 400px;
